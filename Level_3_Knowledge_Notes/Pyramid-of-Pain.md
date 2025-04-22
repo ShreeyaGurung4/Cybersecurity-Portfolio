@@ -115,4 +115,4 @@ Why It Hurts Attackers:
 
 Defender’s Goal: Force attackers to choose an easier target.
 
-
+Understanding the Pyramid of Pain enables analysts to prioritise which signs to monitor and respond to. Focussing on higher layers (such as TTPs and tools) increases the possibility of detecting sophisticated threats early and pushing attackers to reconsider their tactics.
